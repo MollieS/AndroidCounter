@@ -3,6 +3,4 @@
     <string name="_0">0</string>
     <string name="down">-</string>
     <string name="up">+</string>
-    <string name="up_toast">up!</string>
-    <string name="down_toast">down!</string>
 </resources>
