@@ -3,7 +3,11 @@ android:
   components:
     - tools
     - platform-tools
+<<<<<<< HEAD
     - build-tools-24.0.1
+=======
+    - build-tools-23.0.2
+>>>>>>> ca67655... Edits travis file for most recent SDK
     - android-24
 
   script:
